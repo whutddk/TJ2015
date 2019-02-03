@@ -7,11 +7,11 @@
 #### 图片
 
 * 当时的调车赛道
-    - [当时的调车赛道](https://github.com/whutddk/TJ2015/blob/master/pic/微信图片_201901312200229.jpg)
+    - ![当时的调车赛道](https://github.com/whutddk/TJ2015/blob/master/pic/微信图片_201901312200229.jpg)
 * 原型设计
-    - [原型设计](https://github.com/whutddk/TJ2015/blob/master/pic/微信图片_2019013121595710.jpg)
+    - ![原型设计](https://github.com/whutddk/TJ2015/blob/master/pic/微信图片_2019013121595710.jpg)
 * 赛前版本
-    - [赛前版本](https://github.com/whutddk/TJ2015/blob/master/pic/微信图片_2019013121595728.jpg)
+    - ![赛前版本](https://github.com/whutddk/TJ2015/blob/master/pic/微信图片_2019013121595728.jpg)
 
 
 #### Contributors
